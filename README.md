@@ -19,7 +19,9 @@ pip3 install -r requirements.txt
 
 ## Bot Commands
 Adds item to the database: ```!add <item>```
+
 List items you've entered: ```!list```
+
 Emails the list to given email:  ```!email <email-address>```
 
 ## To-Do List
